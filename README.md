@@ -7,3 +7,19 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=VexWorks12&label=profile%20views&color=brightgreen&style=flat" alt="profile views" />
 </p>
+
+---
+
+### 🔥 Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VexWorks12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/VexWorks12/VexWorks12/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
